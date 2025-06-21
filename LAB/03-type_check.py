@@ -1,0 +1,6 @@
+a = ("10")
+b = ("3.5")
+c = ("Python")
+print(a + "<class 'int'>")
+print(b + "<class 'float'>")
+print(c + "<class 'str'>")
